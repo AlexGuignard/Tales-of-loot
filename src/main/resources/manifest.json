@@ -1,17 +1,16 @@
 {
-  "Group": "TemplatePlugin",
-  "Name": "TemplatePlugin",
+  "Group": "Tales_of_loot",
+  "Name": "Tales_of_loot",
   "Version": "1.0.0",
-  "Description": "A Hytale plugin template",
+  "Description": "A Hytale plugin that mimics behaviour of lootr from minecraft",
   "Authors": [
     {
-      "Name": "YourName",
-      "Email": "your.email@example.com",
-      "Url": "https://your-website.com"
+      "Name": "Laynord",
+      "Email": "alexbtssio@outlook.fr",
     }
   ],
-  "Website": "https://github.com/yourusername/hytale-plugin-template",
-  "Main": "com.example.templateplugin.TemplatePlugin",
+  "Website": "https://https://github.com/AlexGuignard/Tales-of-loot",
+  "Main": "com.laynord.tales_of_loot.Tales_of_loot",
   "ServerVersion": "*",
   "Dependencies": {},
   "OptionalDependencies": {},

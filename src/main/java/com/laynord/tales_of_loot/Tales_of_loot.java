@@ -1,4 +1,4 @@
-package com.example.templateplugin;
+package com.laynord.tales_of_loot;
 
 /**
  * Main plugin class.
@@ -8,14 +8,14 @@ package com.example.templateplugin;
  * @author YourName
  * @version 1.0.0
  */
-public class TemplatePlugin {
+public class Tales_of_loot {
 
-    private static TemplatePlugin instance;
+    private static Tales_of_loot instance;
     
     /**
      * Constructor - Called when plugin is loaded.
      */
-    public TemplatePlugin() {
+    public Tales_of_loot() {
         instance = this;
         System.out.println("[TemplatePlugin] Plugin loaded!");
     }
@@ -48,7 +48,7 @@ public class TemplatePlugin {
     /**
      * Get plugin instance.
      */
-    public static TemplatePlugin getInstance() {
+    public static Tales_of_loot getInstance() {
         return instance;
     }
 }
